@@ -1,4 +1,4 @@
-- [Lab 1] (https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B1%5D)
-- [Lab 2] (https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B2%5D)
-- [Lab 3] (https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B3%5D)
-- [Lab 4] (https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B4%5D)
+- [Lab 1](https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B1%5D)
+- [Lab 2](https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B2%5D)
+- [Lab 3](https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B3%5D)
+- [Lab 4](https://github.com/omarkhalil117/Core-Java-Programming/tree/master/Lab%5B4%5D)
