@@ -1,0 +1,18 @@
+printDictionary()
+- arguments: none
+- return : print a formatted text representation of the dictionary, each letter to the words corresponding to it 
+
+getWords(char key)
+- arguments: char -> letter representing thr key
+- return : print list of words corresponding to they key chosen
+
+insert (collection words)
+- arguments: words -> list of strings
+- return : true 
+- expected behavior : the program should insert each word in the collection in it's right place
+
+- removeWord(string word)
+- removeAllKey(char key)
+- search (string regexPattern)
+
+Program should have a user friendly menu that loops over the functionalities with an exit option 
