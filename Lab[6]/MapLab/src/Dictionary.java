@@ -74,7 +74,6 @@ public class Dictionary {
     public void search(String pattern) {
         char firstChar = pattern.toLowerCase().charAt(0);
         Pattern p = Pattern.compile(".*\\Q" + pattern + "\\E.*");
-
         Set<String> vals = dict.get(firstChar);
 
         if (vals == null) {
