@@ -41,7 +41,7 @@ public class Main {
 
         // Result
         result2.forEach((k, v) -> {
-            System.out.println(k + " : " + v);
+            System.out.println(k + " : " + v.get().getName());
         });
 
         System.out.println("/////////////////////////////////////////////////////");
