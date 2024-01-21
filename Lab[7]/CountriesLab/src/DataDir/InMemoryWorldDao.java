@@ -1,13 +1,14 @@
+package DataDir;
+
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
-
 public class InMemoryWorldDao implements WorldDao {
         private static InMemoryWorldDao instance;
-        Map<String, Country> countries;
+        public Map<String, Country> countries;
         Map<Integer, City> cities;
         private Set<String> continents;
 

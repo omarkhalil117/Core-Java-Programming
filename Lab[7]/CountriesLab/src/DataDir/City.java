@@ -1,3 +1,5 @@
+package DataDir;
+
 public class City {
     private int id;
     private String name;
